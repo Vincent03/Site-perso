@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style/css/style.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<title>Mobile Legends</title>
+</head>
+<body>
+
+<nav class="navbar1">
+<div id="menu">
+<dl>
+	<dt>Accueil</dt>
+
+	<dd>
+		<ul>
+		<li><a href="#maj"> Mise à Jour </a></li>
+		<li><a href="#"> Facebook </a></li>
+		<li><a href="#"> Nouveautés </a></li>
+		<li><a href="#"> Actualitées </a></li>
+		</ul>
+
+	</dd>
+
+
+</dl>
+	<dl>
+	<dt>Présentations</dt>
+	<dd>
+		<ul>
+		<li><a href="#"> Gameplay </a></li>
+		
+		</ul>
+
+	</dd>
+
+
+</dl>
+	<dl>
+	<dt>Personnages</dt>
+	<dd>
+		<ul>
+		<li><a href="#"> Nouveautées </a></li>
+		<li><a href="#"> Sorts</a></li>
+		<li><a href="#">  Types de héros</a></li>
+		
+		</ul>
+
+	</dd>
+
+
+</dl>
+	<dl>
+	<dt>Galleries</dt>
+	<dd>
+		<ul>
+		<li><a href="#"> Photos </a></li>
+		<li><a href="#"> Vidéos </a></li>
+		<li><a href="#"> Lives </a></li>
+		</ul>
+
+	</dd>
+
+
+</dl>
+</div>
+</nav>
+<section>
+	<article>	
+		<h1> News </h1>
+		<img src="Capture du 2017-03-28 09-40-03.png">
+		<h4> New Hero Spotlight: Cyclops</h4>
+		<p>  MLBB New Hero -#Cyclops- Starsoul Magician is a mystic creature that's only one eye end heart full of curiosity.</p>
+		<div class="petiteimg">
+		
+		
+		<img src="Capture du 2017-03-28 10-30-19.png">
+		
+		<h4> Natalia Full Hero Guilde </h4>
+		<p> A full Natalia guide provided by wiraww</p>
+		<img src="Capture du 2017-03-28 10-30-30.png">
+		<h4> Rafaela - Tank Support Build </h4>
+		<p> This build is very tanky so play in the face of your ennemies...</p>
+		</div>
+		<h4>
+		<img src="Capture du 2017-03-28 10-30-40.png">
+		<h4> A Comprehensive Tigreal </h4>
+		<p> Tigreal is a very strong tank character who, when used correctly,</br> can disrupt the whole ennemy team with his crowd control abilities.</p>
+		<h1 id="maj"> Mise à Jour </h1>
+
+			<div><img src="maj1.png"><h4>Moskov MVP, owning with a tanky build!</h4><p>Moskov dies too easily because of short range? Try this tanky</br> marksman build!</div>
+			<div><img src="maj2.png"><h4>Patch Notes 1.1.64</h4><p>Take a look at the upcoming updates right now!</div>
+			<div><img src="maj3.png"><h4> Guide of Mya Rain of Arrows </h4><p>I'm Froggnivia, Glorious Legend 48 starts and a Miya main...</div>
+			<div><img src="maj4.png"></div>
+			<div><img src="maj5.png"></div>
+
+	</article>
+</section>
+</body>
+</html>
